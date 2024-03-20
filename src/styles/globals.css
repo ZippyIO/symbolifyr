@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    -webkit-tap-highlight-color: transparent;
+    --light-red: #271416;
+    --light-red-foreground: #fa5252;
+    --light-pink: #24131b;
+    --light-pink-foreground: #e64980;
+    --light-grape: #201425;
+    --light-grape-foreground: #be4bdb;
+    --light-violet: #191528;
+    --light-violet-foreground: #7950f2;
+    --light-indigo: #141828;
+    --light-indigo-foreground: #4c6ef5;
+    --light-blue: #101b26;
+    --light-blue-foreground: #228be6;
+    --light-cyan: #0f1e22;
+    --light-cyan-foreground: #15aabf;
+    --light-teal: #0f1f1c;
+    --light-teal-foreground: #12b886;
+    --light-green: #132018;
+    --light-green-foreground: #40c057;
+    --light-lime: #1a2112;
+    --light-lime-foreground: #82c91e;
+    --light-yellow: #271e10;
+    --light-yellow-foreground: #fab005;
+    --light-orange: #281810;
+    --light-orange-foreground: #fd7e14;
+  }
+}
